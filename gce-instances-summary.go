@@ -10,9 +10,6 @@ import (
 	"os"
 )
 
-// DefaultComputeZone Default zone for all instances
-const DefaultComputeZone = "europe-west1-d"
-
 func main() {
 	colorTitle := ansi.ColorCode("white+h:grey")
 	colorGrey := ansi.ColorCode("grey")
