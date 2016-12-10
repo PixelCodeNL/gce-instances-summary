@@ -9,7 +9,7 @@ Install Go - see https://golang.org/doc/install
 
 ```
 go get -u github.com/jordypixelcode/gce-instances-summary
-go install gce-instances-summary
+go install github.com/jordypixelcode/gce-instances-summary
 ```
 
 ## Usage
